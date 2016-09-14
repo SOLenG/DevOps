@@ -133,4 +133,8 @@ public class File {
         }
         return output2;
     }
+
+    public void say(){
+	System.out.println("hello");
+    }
 }
